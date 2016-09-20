@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "FOContractController.viewWillAppear(Bool) -&gt; ():ContractController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.confirmView.frame.size">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "FOContractListItem.init(json : [String : AnyObject]) -&gt; FOContractListItem:DataModel.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "json[FOJsonKeys.dtBaseContrato]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
